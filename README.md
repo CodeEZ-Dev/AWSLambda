@@ -10,7 +10,4 @@ Create AWS lamda function and Java as Runtime
   Step 5 : Build project (Build Maven) and enter "package shade:shade" in goals
   finally go to project target folder you will find jar file.
   
-  Reference URLS :
   
-  1:  https://youtu.be/VW8aejQO-YI
-  2:  https://youtu.be/opFFz6QNiSg
